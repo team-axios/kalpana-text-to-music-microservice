@@ -1,0 +1,7 @@
+magenta
+note_seq
+tensorflow
+flask
+boto3
+requests
+midi2audio
